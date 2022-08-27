@@ -3,7 +3,7 @@
 QuantumultX :
 **********************
 [rewrite_local]
-https:\/\/www\.xmind\.cn\/\_res\/devices url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/XMind.js
+https:\/\/www\.xmind\.cn\/\_res\/devices url script-response-body https://raw.githubusercontent.com/wangsiwenh/QuantumltX/master/script/Xmind.js
 [mitm] 
 hostname= www.xmind.cn
 
