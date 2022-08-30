@@ -1,7 +1,7 @@
 /*
 滴答清单 unlock pro
 QX:
-^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/DiDaQingDan.js
+^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status url script-response-body https://raw.githubusercontent.com/wangsiwenh/QuantumltX/master/script/DiDaQingDan.js
 
 hostname = dida365.com, ticktick.com
 */
