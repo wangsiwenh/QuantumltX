@@ -1,5 +1,5 @@
 /*
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body JS/bear.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/bear.js
 buy.itunes.apple.com
 */
 
